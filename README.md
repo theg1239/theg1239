@@ -19,7 +19,7 @@ Check out the repos if you're curious.
  **[Gravitas Fetcher](https://github.com/theg1239/gravitas-fetcher)**  
   Fetches event seat registrations. Made it because I was tired of endless clicks.
 
- **[Codex Cryptum](https://github.com/ACM-VIT/codex-portal)**  
+ **[Codex Portal](https://github.com/ACM-VIT/codex-portal)**  
   A web portal for Codex Cryptum. Built in 2 days, no stress.
 
 ---
