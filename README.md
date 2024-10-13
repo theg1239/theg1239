@@ -5,7 +5,7 @@ Check out the repos if you're curious.
 ---
 
  **[ShuttleIt](https://github.com/theg1239/ShuttleIt)**  
-  A project conceived at an ideathon for ACM. 
+  A project conceived at an ideathon.
 
  **[RE-DACT](https://github.com/theg1239/RE-DACT)**  
   An NLP-based redaction tool. It generates synthetic data over sensitive information.
