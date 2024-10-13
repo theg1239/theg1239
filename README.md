@@ -22,4 +22,7 @@ Check out the repos if you're curious.
  **[Codex Portal](https://github.com/ACM-VIT/codex-portal)**  
   A web portal for Codex Cryptum. Built in 2 days, no stress.
 
+ **[VTOP Activity](https://github.com/theg1239/VTOP-activity)**
+  A web extension to keep your VTOP session active in the background. Extremely simple, but necessary.
+
 ---
