@@ -8,7 +8,7 @@ Check out the repos if you're curious.
   A project conceived at an ideathon.
 
  **[RE-DACT](https://github.com/theg1239/RE-DACT)**  
-  An NLP-based redaction tool. It generates synthetic data over sensitive information.
+  NLP-based redaction tool. It generates synthetic data over sensitive information.
 
  **[Shogi Encryption](https://github.com/theg1239/shogiencryption)**  
   An algorithm that encodes and decodes files using Shogi moves. Yes, it’s as cool as it sounds.
