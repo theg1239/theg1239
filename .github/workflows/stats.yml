@@ -14,15 +14,17 @@ jobs:
 
       - name: Generate GitHub Stats
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          curl "https://github-readme-stats.vercel.app/api/top-langs?username=theg1239&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true&token=${GITHUB_TOKEN}" > stats.svg
+          curl "https://github-readme-stats.vercel.app/api/top-langs?username=theg1239&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true&token=${{ secrets.GH_STATS_TOKEN }}" > stats.svg
           echo "![GitHub Stats](./stats.svg)" >> README.md
 
       - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md stats.svg
-          git commit -m "Update GitHub stats [skip ci]"
-          git push
+          git commit -m "Update GitHub stats [skip ci]" || exit 0 # Ignore if no changes
+          git push "https://${{ secrets.GITHUB_TOKEN }}@github.com/theg1239/theg1239.git" HEAD:main
