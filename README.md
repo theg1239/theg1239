@@ -22,9 +22,4 @@
   A web portal for Codex Cryptum. Built in 2 days, no stress.
 
 ---
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theg1239&show_icons=true&locale=en&layout=compact&theme=dark" alt="my stats lol" />
-
-</p>
 ![GitHub Stats](./stats.svg)
