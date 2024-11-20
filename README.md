@@ -1,6 +1,5 @@
-### I do tech for fun.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=blue&center=true&multiline=true&width=900&size=40&lines=Hi,+I+do+tech+for+fun+++++++++++)](https://git.io/typing-svg)
 
-Check out the repos if you're curious. 
 
 ---
 
@@ -23,3 +22,8 @@ Check out the repos if you're curious.
   A web portal for Codex Cryptum. Built in 2 days, no stress.
 
 ---
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theg1239&show_icons=true&locale=en&layout=compact&theme=dark" alt="my stats lol" />
+
+</p>
