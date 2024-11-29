@@ -16,7 +16,7 @@
   An algorithm that encodes and decodes files using Shogi moves.
 
 - **[QRcodes](https://github.com/theg1239/QRcodes)**  
-  A QR code generator that just works.
+  A QR code generator that just works: https://gen.cryptichunt.in/
 
 - **[Gravitas Fetcher](https://github.com/theg1239/gravitas-fetcher)**  
   Fetches event seat registrations. Made it because I was tired of the Gravitas website.
