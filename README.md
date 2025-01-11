@@ -36,6 +36,14 @@
 - **[VTOP Activity](https://github.com/theg1239/VTOP-activity)**  
   I was so tired of being auto-logged out by VTOP.
 
+- **[URL Shortener](https://github.com/theg1239/url-shortener)**  
+  Automated Certificate Management dot today shortened URLs.
+
+- **[Meetings Dashboard](https://github.com/theg1239/meetings-dashboard)**  
+  It's real-time.
+
+- and a lot more other cool stuff (cool imo)
+
 ---
 
 ![GitHub Stats](./stats.svg)
