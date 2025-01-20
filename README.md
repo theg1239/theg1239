@@ -16,13 +16,13 @@
   An algorithm that encodes and decodes files using Shogi moves.
 
 - **[QRcodes](https://github.com/theg1239/QRcodes)**  
-  A QR code generator that just works: https://gen.cryptichunt.in/
+  A QR code generator that just works: [gen.cryptichunt.in](https://gen.cryptichunt.in)
 
 - **[Gravitas Fetcher](https://github.com/theg1239/gravitas-fetcher)**  
-  Fetches event seat registrations. Made it because I was tired of the Gravitas website.
+  Fetches event seat registrations. Made it because I was tired of the Gravitas website: [track.cryptichunt.in](https://track.cryptichunt.in)
 
 - **[Codex Portal](https://github.com/ACM-VIT/codex-portal)**  
-  A web portal for Codex Cryptum. Built in 2 days, no stress.
+  A web portal for Codex Cryptum. Built in 2 days, no stress: [codexcryptum.acmvit.in](https://codexcryptum.acmvit.in)
 
 - **[img2pdf](https://github.com/theg1239/img2pdf)**  
   A simple img2pdf website: [https://img2pdf.in](https://img2pdf.in).
@@ -37,10 +37,10 @@
   I was so tired of being auto-logged out by VTOP.
 
 - **[URL Shortener](https://github.com/theg1239/url-shortener)**  
-  Automated Certificate Management dot today shortened URLs.
+  Automated Certificate Management dot today shortened URLs: [link.acm.today](https://link.acm.today)
 
-- **[Meetings Dashboard](https://github.com/theg1239/meetings-dashboard)**  
-  It's real-time.
+- **[Meetings Dashboard](https://github.com/theg1239/meeting-dashboard)**  
+  It's real-time: [acm.today](https://acm.today)
 
 - and a lot more other cool stuff (cool imo)
 
