@@ -21,7 +21,7 @@
 - **[Gravitas Fetcher](https://github.com/theg1239/gravitas-fetcher)**  
   Fetches event seat registrations. Made it because I was tired of the Gravitas website: [track.cryptichunt.in](https://track.cryptichunt.in)
 
-- **[Codex Portal](https://github.com/ACM-VIT/codex-portal)**  
+- **[Codex Portal](https://github.com/theg1239/codex-portal)**  
   A web portal for Codex Cryptum. Built in 2 days, no stress: [codexcryptum.acmvit.in](https://codexcryptum.acmvit.in)
 
 - **[img2pdf](https://github.com/theg1239/img2pdf)**  
