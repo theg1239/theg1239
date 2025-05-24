@@ -28,7 +28,7 @@
 - **[Deepfake Detection](https://github.com/ACM-VIT/QualityWeek_DeepfakeDetection)**  
   Helped conduct a workshop and delivered a hands on session on how to train a model and infer it to detect if a person in a video clip is deepfaked.
 
-- **[Mediasoup WebRTC Server](https://github.com/theg1239/mediasoup)**
+- **[Mediasoup WebRTC Server](https://github.com/theg1239/mediasoup)**  
   Built (WIP) a server for many to many web conferencing with support for screensharing, admin mode, breakout rooms and ensured it's highly scalable.
 
 - **[NPTEL Agent](https://github.com/theg1239/nptel-agent)**  
