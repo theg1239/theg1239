@@ -18,7 +18,7 @@
 - **[Enrollments Dashboard]**  
   I helped build the dashboard for my club's enrollments website, it enhanced productivity by several fold and provided valuable features and insights.
 
-- **[MARINE](https://github.com/MARINE-AI/MARINE)**
+- **[MARINE](https://github.com/MARINE-AI/MARINE)**  
   I built a distributed microservice architecture platform to detect pirated content across the web as part of a hackathon over 3 days with my team.
   We won our track "Digital Security" for this project
 
