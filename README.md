@@ -12,10 +12,10 @@
 - **[Vimegle](https://github.com/theg1239/vimegle-web)**  
   P2P video, voice and text chat platform to make new friends
 
-- **[acmdraws](https://github.com/theg1239/acmdraws-backend)**
+- **[acmdraws](https://github.com/theg1239/acmdraws-backend)**  
   I remade Skribbl.io on my club's SPA enrollments website
 
-- **[Enrollments Dashboard]**  
+- **[Enrollments Dashboard]**
   I helped build the dashboard for my club's enrollments website, it enhanced productivity by several fold and provided valuable features and insights.
 
 - **[MARINE](https://github.com/MARINE-AI/MARINE)**
