@@ -31,7 +31,7 @@
 - **[Mediasoup WebRTC Server](https://github.com/theg1239/mediasoup)**
   Built (WIP) a server for many to many web conferencing with support for screensharing, admin mode, breakout rooms and ensured it's highly scalable.
 
-- **[NPTEL Agent](https://github.com/theg1239/nptel-agent)**
+- **[NPTEL Agent](https://github.com/theg1239/nptel-agent)**  
   An agent to automate doing your NPTEL weekly assignments, built with Langgraph
 
 - **[RE-DACT](https://github.com/theg1239/RE-DACT)**  
