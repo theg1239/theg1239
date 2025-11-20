@@ -9,8 +9,13 @@
 - **[NPTELPrep](https://github.com/theg1239/nptelprep)**  
   A project to make NPTEL course materials more accessible via an API available to everyone. Features a quiz platform: [https://nptelprep.in](https://nptelprep.in).
 
-- **[The Everything Assistant](https://the-everything-assistant.vercel.app)**  
-  The agentic assistant to help you with everything VIT Vellore
+
+- **[Vimegle](https://github.com/theg1239/vimegle-web)**  
+  P2P video, voice and text chat platform to make new friends: [https://vimegle.com](https://vimegle.com)
+
+
+- **[The Everything Assistant](https://github.com/theg1239/the-everything-assistant)**  
+  The agentic assistant to help you with everything VIT Vellore: [Live Website](https://the-everything-assistant.vercel.app)
 
 - **[acmdraws](https://github.com/theg1239/acmdraws-backend)**  
   I remade Skribbl.io on my club's SPA enrollments website
